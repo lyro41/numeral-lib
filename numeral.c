@@ -1,9 +1,9 @@
-//! @file main.c
+//! @file numeral.c
 //! @authors Люпа Ростислав А.
 //! @note Ответственный: Пышняк Марина О.
-//! @brief Тестирование библиотеки numeral-lib
+//! @brief Исходный файл с определениями библиотеки numeral-lib
 
-#include "numeral.h"
+#include <numeral.h>
 
 #include <ctype.h>
 #include <stdio.h>
